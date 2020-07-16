@@ -25,5 +25,3 @@ function accum(paramString) {
 	}
 	return result;
 }
-
-console.log(accum('a'));
